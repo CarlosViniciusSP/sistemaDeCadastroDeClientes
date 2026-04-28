@@ -1,0 +1,14 @@
+D:\Usuários\Carlos Vinícius\Documents\Projetos Carlos Vinícius\Projetos Dev\sistemaDeCadastroDeClientes\bin\Debug\net8.0\sistemaDeCadastroDeClientes.exe
+D:\Usuários\Carlos Vinícius\Documents\Projetos Carlos Vinícius\Projetos Dev\sistemaDeCadastroDeClientes\bin\Debug\net8.0\sistemaDeCadastroDeClientes.deps.json
+D:\Usuários\Carlos Vinícius\Documents\Projetos Carlos Vinícius\Projetos Dev\sistemaDeCadastroDeClientes\bin\Debug\net8.0\sistemaDeCadastroDeClientes.runtimeconfig.json
+D:\Usuários\Carlos Vinícius\Documents\Projetos Carlos Vinícius\Projetos Dev\sistemaDeCadastroDeClientes\bin\Debug\net8.0\sistemaDeCadastroDeClientes.dll
+D:\Usuários\Carlos Vinícius\Documents\Projetos Carlos Vinícius\Projetos Dev\sistemaDeCadastroDeClientes\bin\Debug\net8.0\sistemaDeCadastroDeClientes.pdb
+D:\Usuários\Carlos Vinícius\Documents\Projetos Carlos Vinícius\Projetos Dev\sistemaDeCadastroDeClientes\obj\Debug\net8.0\sistemaDeCadastroDeClientes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuários\Carlos Vinícius\Documents\Projetos Carlos Vinícius\Projetos Dev\sistemaDeCadastroDeClientes\obj\Debug\net8.0\sistemaDeCadastroDeClientes.AssemblyInfoInputs.cache
+D:\Usuários\Carlos Vinícius\Documents\Projetos Carlos Vinícius\Projetos Dev\sistemaDeCadastroDeClientes\obj\Debug\net8.0\sistemaDeCadastroDeClientes.AssemblyInfo.cs
+D:\Usuários\Carlos Vinícius\Documents\Projetos Carlos Vinícius\Projetos Dev\sistemaDeCadastroDeClientes\obj\Debug\net8.0\sistemaDeCadastroDeClientes.csproj.CoreCompileInputs.cache
+D:\Usuários\Carlos Vinícius\Documents\Projetos Carlos Vinícius\Projetos Dev\sistemaDeCadastroDeClientes\obj\Debug\net8.0\sistemaDeCadastroDeClientes.dll
+D:\Usuários\Carlos Vinícius\Documents\Projetos Carlos Vinícius\Projetos Dev\sistemaDeCadastroDeClientes\obj\Debug\net8.0\refint\sistemaDeCadastroDeClientes.dll
+D:\Usuários\Carlos Vinícius\Documents\Projetos Carlos Vinícius\Projetos Dev\sistemaDeCadastroDeClientes\obj\Debug\net8.0\sistemaDeCadastroDeClientes.pdb
+D:\Usuários\Carlos Vinícius\Documents\Projetos Carlos Vinícius\Projetos Dev\sistemaDeCadastroDeClientes\obj\Debug\net8.0\sistemaDeCadastroDeClientes.genruntimeconfig.cache
+D:\Usuários\Carlos Vinícius\Documents\Projetos Carlos Vinícius\Projetos Dev\sistemaDeCadastroDeClientes\obj\Debug\net8.0\ref\sistemaDeCadastroDeClientes.dll
