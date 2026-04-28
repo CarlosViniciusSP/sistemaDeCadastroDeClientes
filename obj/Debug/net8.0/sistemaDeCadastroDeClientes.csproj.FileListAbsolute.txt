@@ -12,3 +12,4 @@ D:\Usuários\Carlos Vinícius\Documents\Projetos Carlos Vinícius\Projetos Dev\s
 D:\Usuários\Carlos Vinícius\Documents\Projetos Carlos Vinícius\Projetos Dev\sistemaDeCadastroDeClientes\obj\Debug\net8.0\sistemaDeCadastroDeClientes.pdb
 D:\Usuários\Carlos Vinícius\Documents\Projetos Carlos Vinícius\Projetos Dev\sistemaDeCadastroDeClientes\obj\Debug\net8.0\sistemaDeCadastroDeClientes.genruntimeconfig.cache
 D:\Usuários\Carlos Vinícius\Documents\Projetos Carlos Vinícius\Projetos Dev\sistemaDeCadastroDeClientes\obj\Debug\net8.0\ref\sistemaDeCadastroDeClientes.dll
+D:\Usuários\Carlos Vinícius\Documents\Projetos Carlos Vinícius\Projetos Dev\sistemaDeCadastroDeClientes\obj\Debug\net8.0\sistemaDeCadastroDeClientes.sourcelink.json
